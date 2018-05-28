@@ -1,0 +1,2 @@
+#FUNCIONES MATEMÁTICAS
+#Se crean dos funciones, add y multiply. Cada una toma dos argumentos. La función add deb sumar sus argumentos y devulve el resultado. La funcion multiply multiplica sus argumentos. Usando solamente estas dos funciones, resuelvo este problema matemático: 1986 * (1980+1542).
